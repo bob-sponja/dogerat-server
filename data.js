@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_TELEGRAM_BOT_TOKEN",
-  id:"Enter Your Id",
-  address:"Enter your url"
+  token: "7846196043:AAE8vOKK6gI3h84223XGJJKG9AxRwdGF5sI",
+  id:"1217829628",
+  address:"https://coincrock-server.onrender.com"
 };
